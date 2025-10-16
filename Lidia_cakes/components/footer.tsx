@@ -21,20 +21,20 @@ export function Footer() {
           <h3 className="font-serif text-2xl font-bold mb-6">Contato</h3>
           <div className="flex flex-col gap-4">
             <a
-              href="https://wa.me/862468796"
+              href="https://wa.me/843962791"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors text-lg"
             >
               <Phone className="h-5 w-5" />
-              862468796 / 853719452
+              843962791 / 870657579
             </a>
             <a
               href="mailto:jpsepaulo74@gmail.com"
               className="flex items-center gap-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors text-lg"
             >
               <Mail className="h-5 w-5" />
-              jpsepaulo74@gmail.com
+              Quitutes_da_lily@gmail.com
             </a>
             <div className="flex items-center gap-3 text-primary-foreground/80 text-lg">
               <MapPin className="h-5 w-5" />

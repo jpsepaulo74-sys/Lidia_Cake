@@ -39,7 +39,7 @@ export function Header() {
         <div className="flex items-center gap-4">
           <Button
             className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold shadow-md hover:shadow-lg transition-all"
-            onClick={() => window.open("https://wa.me/862468796?text=Olá! Gostaria de fazer um pedido", "_blank")}
+            onClick={() => window.open("https://wa.me/843962791?text=Olá! Gostaria de fazer um pedido", "_blank")}
           >
             Fazer Pedido
           </Button>

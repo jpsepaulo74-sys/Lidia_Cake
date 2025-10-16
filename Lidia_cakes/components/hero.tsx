@@ -46,7 +46,7 @@ export function Hero() {
               size="lg"
               variant="outline"
               className="text-lg px-8 py-6 h-auto border-2 border-primary/30 text-primary hover:bg-primary hover:text-primary-foreground hover:border-primary shadow-md hover:shadow-lg transition-all bg-background/90 backdrop-blur-md"
-              onClick={() => window.open("https://wa.me/862468796?text=Olá! Gostaria de fazer um pedido", "_blank")}
+              onClick={() => window.open("https://wa.me/843962791?text=Olá! Gostaria de fazer um pedido", "_blank")}
             >
               Fazer Pedido
             </Button>
