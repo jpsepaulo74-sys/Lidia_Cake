@@ -14,10 +14,7 @@ export function Footer() {
             </p>
           </div>
 
-          {/* Contact */}
-          <div>
-            <h3 className="font-serif text-2xl font-bold mb-6">Contato</h3>
-            <div className="space-y-4">
+     
               <a
                 href="https://wa.me/862468796"
                 target="_blank"
