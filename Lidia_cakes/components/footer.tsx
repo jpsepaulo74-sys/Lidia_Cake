@@ -2,10 +2,7 @@ import { Cake, Instagram, Facebook, Mail, Phone, MapPin } from "lucide-react"
 
 export function Footer() {
   return (
-    <footer id="contato" className="bg-primary text-primary-foreground">
-      <div className="container mx-auto px-4 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
-          {/* Brand */}
+    
           <div>
             <div className="flex items-center gap-3 mb-6">
               <Cake className="h-10 w-10" />
